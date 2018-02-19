@@ -1,3 +1,5 @@
+# PagerDuty team release their own free official plugin for jira, which support two-way synch. Search for it on Atlassian Marketplace
+
 # pagerduty-jira
 Repository contains few groovy scripts that allow us to create a ticket, set in progress or resolve ticket in jira via PagerDuty.
 
